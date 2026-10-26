@@ -1,5 +1,37 @@
 # UCI Online Retail — Exploratory Data Analysis and Business Insights
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Business Problem](#business-problem)
+3. [Project Objectives](#project-objectives)
+4. [Dataset and Source](#dataset-and-source)
+5. [Tools and Technologies](#tools-and-technologies)
+6. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+7. [Exploratory Data Analysis and Visualizations](#exploratory-data-analysis-and-visualizations)
+   - [Revenue Analysis](#1-revenue-analysis)
+     - [Revenue Distribution](#revenue-distribution)
+     - [Positive Revenue Distribution](#positive-revenue-distribution)
+     - [Monthly Revenue Trends](#monthly-revenue-trends)
+   - [Product and Customer Analysis](#2-product-and-customer-analysis)
+     - [Product Revenue](#product-revenue)
+     - [Top 10 Customers by Revenue](#top-10-customers-by-revenue)
+   - [Country Analysis](#3-country-analysis)
+     - [Country vs Revenue](#country-vs-revenue)
+     - [Top Countries by Transaction Count](#top-countries-by-transaction-count)
+   - [Quantity and Price Analysis](#4-quantity-and-price-analysis)
+     - [Quantity Distribution](#quantity-distribution)
+     - [Unit Price Distribution](#unit-price-distribution)
+     - [Quantity by Price](#quantity-by-price)
+   - [Outlier Analysis](#5-outlier-analysis)
+     - [Unit Price Outliers](#unit-price-outliers)
+     - [Quantity Outliers](#quantity-outliers)
+8. [Key Findings](#key-findings)
+9. [Business Insights and Recommendations](#business-insights-and-recommendations)
+10. [Limitations](#limitations)
+11. [Conclusion](#conclusion)
+12. [Skills Demonstrated](#skills-demonstrated)
+
 ## Project Overview
 
 This project explores online retail transactions to understand revenue trends, product performance, country-wise sales, customer purchasing patterns, and unusual transactions using Python.
